@@ -5,7 +5,7 @@
 ## Entry level
 
 1. InterchangeStringTest
-  receives 2 string and interpolate each word genetaring a new string, `StringBuilder` is used for a less memory consumption. 
+  receives 2 string and interchange each letter genetaring a new string, `StringBuilder` is used for a less memory consumption. 
   
   
 2. ArrayRotationTest
