@@ -4,7 +4,7 @@ using Xunit;
 
 namespace Algorithm.Entry.Src
 {
-    public class InterchangeStringTest
+    public class InterchangeString
     {
         [Theory]
         [InlineData("abc", "pqr", "apbqcr")]

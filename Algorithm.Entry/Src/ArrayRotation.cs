@@ -3,7 +3,7 @@ using Xunit;
 
 namespace Algorithm.Entry.Src
 {
-    public class ArrayRotationTest
+    public class ArrayRotation
     {
 
         [Theory]
