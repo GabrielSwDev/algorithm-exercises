@@ -22,7 +22,7 @@ namespace Algorithm.Entry.Src
             }
 
 
-
+           
 
             Assert.Equal(expected, numCollection);
         }

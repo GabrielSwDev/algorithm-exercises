@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Xunit;
+﻿using Xunit;
 
 namespace Algorithm.Entry.Src
 {
@@ -38,8 +33,5 @@ namespace Algorithm.Entry.Src
 
             Assert.Equal(expected, result);
         }
-
-
-
     }
 }
