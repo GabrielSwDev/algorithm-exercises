@@ -1,7 +1,7 @@
 using Xunit;
 using System.Linq;
 
-namespace Algoritm.Mid
+namespace Algoritm.Mid.Src
 {
     public class SumNumInText
     {
