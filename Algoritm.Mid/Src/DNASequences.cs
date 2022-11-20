@@ -3,9 +3,14 @@ using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace Algoritm.Mid.Src
+namespace Algoritm.Intermidiate.Src
 {
-
+    /// <summary>
+    /// Given a string 'input' that represents a DNA sequence, and a number k, 
+    /// return all the contiguous sequences (substrings) of length k that occur more than once in the string. 
+    /// The order of the returned subsequences does not matter. 
+    /// If no repeated subsequence is found, the function should return an empty set.
+    /// </summary>
     public class DNASequences
     {
         [Theory]

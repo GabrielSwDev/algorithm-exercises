@@ -1,7 +1,7 @@
 using Xunit;
 using System.Linq;
 
-namespace Algoritm.Mid.Src
+namespace Algoritm.Intermidiate.Src
 {
     public class SumNumInText
     {
